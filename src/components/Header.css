@@ -1,0 +1,21 @@
+.header-container {
+  background-image: url("./imagen.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 72, 134);
+  text-align: center;
+}
+
+.header-content h1 {
+  font-size: 3em;
+  margin: 0;
+  color: rgb(0, 72, 134);
+}
+
+.header-content p {
+  font-size: 2em;
+}
